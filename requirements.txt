@@ -1,0 +1,11 @@
+pika>=1.2.0
+requests>=2.25.0
+langchain-google-genai>=1.0.0
+
+# Qdrant Vector Database
+qdrant-client>=1.7.0
+sentence-transformers>=2.2.0
+
+# Additional dependencies for embeddings
+torch>=1.9.0
+transformers>=4.21.0
